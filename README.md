@@ -1,2 +1,2 @@
 # ns-scripts
-Miscellaneous scripts for the browser polsim NationStates
+Even more miscellaneous scripts for the browser polsim NationStates
