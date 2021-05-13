@@ -1,0 +1,9 @@
+[submodule "Dispatch-Maker"]
+	path = Dispatch-Maker
+	url = https://github.com/Atlae/Dispatch-Maker
+[submodule "Tablesetter"]
+	path = Tablesetter
+	url = https://github.com/Atlae/Tablesetter
+[submodule "TGList"]
+	path = TGList
+	url = https://github.com/Atlae/TGList
